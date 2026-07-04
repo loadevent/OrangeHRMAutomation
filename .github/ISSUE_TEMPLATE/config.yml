@@ -1,0 +1,9 @@
+blank_issues_enabled: true
+contact_links: []
+issue_templates:
+  - name: 📚 User Story
+    description: Describe a user story to help guide development
+    file: user_story.yml
+  - name: 🧪 Test Case
+    description: Document a test case including ID, objective, steps, data, and expected results
+    file: test_case.yml
