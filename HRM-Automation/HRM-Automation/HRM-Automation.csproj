@@ -22,4 +22,13 @@
     <Using Include="NUnit.Framework" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Drivers\" />
+    <Folder Include="Reports\" />
+    <Folder Include="Utilities\" />
+    <Folder Include="TestData\" />
+    <Folder Include="Tests\" />
+    <Folder Include="Pages\" />
+  </ItemGroup>
+
 </Project>
